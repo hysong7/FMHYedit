@@ -170,6 +170,7 @@
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
+* [xPassportPhoto](https://xpassportphoto.com) - Make Standard Passport Photo Online in 3s
 
 ***
 
